@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-reimbursements-flutter",
+  "capabilityKey": "liberusoftware/module-accounting-reimbursements",
+  "presentation": "mobile-flutter",
+  "package": "module_accounting_reimbursements_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/accounting/nextjs/reimbursements.md",
+  "presentationPlan": "projects/accounting/flutter/reimbursements.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
